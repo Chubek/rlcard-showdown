@@ -5,5 +5,3 @@ django-cors-headers
 flask==1.1
 flask-cors
 onnx
-onnxruntime
-
